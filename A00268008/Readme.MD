@@ -129,6 +129,24 @@ Ya con esto podemos utilizar los entornos virtuales.
 
 ![][4]
 
+**Aplicación en python:**
+
+Para la aplicación en python se utilizo un script en bash para actualizar
+la información obtenida por los comandos en archivos .txt que fueron posterior mente
+leidos para el retorno de la información.
+
+codigo del script
+
+![][7]
+
+codigo python
+
+![][5]
+![][6]
+
+**Funcionamiento:**
+
+https://media.giphy.com/media/26ghbOzgibLYYAtSo/giphy.gif
 
 
 ## Referencias
@@ -136,3 +154,11 @@ Ya con esto podemos utilizar los entornos virtuales.
 * https://www.cyberciti.biz/faq/how-to-open-firewall-port-on-ubuntu-linux-12-04-14-04-lts/
 * https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04
 * https://github.com/ICESI/so-microservices-python/blob/master/01_virtualenvs/README.md
+
+[1]: images/Screenshot_1.png
+[2]: images/Screenshot_2.png
+[3]: images/Screenshot_3.png
+[4]: images/Screenshot_4.png
+[5]: images/Screenshot_5.png
+[6]: images/Screenshot_6.png
+[7]: images/Screenshot_7.png

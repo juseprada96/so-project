@@ -104,8 +104,8 @@ sudo apt-get install -y python-pip
 Una vez instalado pip instalaremos los ambientes virtuales:
 
 ```
-pip3 install virtualenv
-pip3 install --user virtualenvwrapper
+pip install virtualenv
+pip install --user virtualenvwrapper
 ```
 
 Los configuramos:

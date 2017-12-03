@@ -111,10 +111,10 @@ pip install --user virtualenvwrapper
 Los configuramos:
 
 ```
-vi ~/.bashrc
+$ vi ~/.bashrc
 export WORKON_HOME=~/.virtualenvs
 source /home/operativos/.local/bin/virtualenvwrapper.sh
-source ~/.bashrc
+$ source ~/.bashrc
 ```
 
 Para poder que todo funcione necesitamos copiar los archivos de python
